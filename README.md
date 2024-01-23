@@ -6,3 +6,7 @@
 - 👯 I’m looking to collaborate on Software Development
 - 📫 Contact :
 <br /> [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:logeshwaran6069@gmail.com) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/logeshselvam-p/)
+- 📍 Location :
+Karur,IN
+- 📞 Phone No :
++91 7010364226

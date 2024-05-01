@@ -5,6 +5,7 @@ Software Developer
 - 🔭 Here's my [Portfolio](https://jocular-marshmallow-367568.netlify.app/)
 - 🌱 I’m currently learning DSA
 - 👯 I’m looking to collaborate on Software Development
+- 🤔 I’m looking for help with Placements in FAANG
 - 📫 Contact :
 <br /> [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:logeshwaran6069@gmail.com) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/logeshselvam-p/)
 - 📞 Phone No :

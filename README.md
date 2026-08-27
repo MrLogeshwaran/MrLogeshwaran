@@ -1,58 +1,28 @@
-<div align="center">
-   __                     __  
-  / /  ___  ___ ____ ___ / /  
- / /__/ _ \/ _ `/ -_|_-</ _ \ 
-/____/\___/\_, /\__/___/_//_/ 
-          /___/
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=800&color=39FF14&background=0D1117&center=true&vCenter=true&width=560&lines=%24+whoami;%3E+Logesh+%7C+Software+Developer;%24+cat+status.txt;%3E+Compiling+dreams+into+code...;%24+./run+career.sh" /> </div> <br/>
-yaml
-# ~/profile/logesh.yaml
-name: Logesh
-role: Software Developer
-based_in: Chennai, India
-status: "🟢 Open to collaborate"
-currently_learning:
-  - Data Structures & Algorithms
-looking_for:
-  - Software Development collaborations
-  - Guidance on FAANG placements
-motto: "git commit -m 'keep improving'"
-<br/> <table align="center"> <tr> <td valign="top" width="50%">
-📂 stack/languages
-diff
-+ C++
-+ Java
-+ JavaScript
-+ HTML5 / CSS3
-</td> <td valign="top" width="50%">
-📂 stack/frameworks
-diff
-+ React Native
-+ Node.js
-+ Spring
-+ Flutter (Dart)
-</td> </tr> <tr> <td valign="top">
-📂 stack/database
-diff
-+ MongoDB
-+ Firebase
-</td> <td valign="top">
-📂 tools/daily-driver
-diff
-+ VS Code
-+ Android Studio
-+ Git
-+ Figma
-</td> </tr> </table> <br/> <div align="center">
-> connect --with logesh
+Git
 
-Show Image Show Image Show Image
 
-📍 Chennai, India  •  📞 +91 7010364226
+### Hi there 👋 It's me Logesh
 
-</div> <br/> <div align="center"> <img height="150" src="https://github-readme-stats.vercel.app/api?username=MrLogeshwaran&show_icons=true&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9&border_radius=8" /> <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=MrLogeshwaran&hide_border=true&background=0D1117&stroke=39FF14&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&border_radius=8" /> </div> <div align="center">
-$ echo "Thanks for visiting my profile" | cowsay
+Software Developer
+<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
+- 🔭 Here's my [Portfolio](https://mrlogeshwaran.web.app)
+- 🌱 I’m currently learning DSA
+- 👯 I’m looking to collaborate on Software Development
+- 🤔 I’m looking for help with Placements in FAANG
+- 📫 Contact :
+<br /> [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:logeshwaranprogrammer@gmail.com) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/MrLogeshwaran)
+- 📞 Phone No :
++91 7010364226
+- 📍 Location :
+Chennai,IN
 
-<sub>process exited with code 0 ✅ — see you in the next commit</sub>
 
-</div>
+
+
+
+
+### I code in
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /> <img width="48" height="48" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/> <img width="50" height="50" src="https://img.icons8.com/color/48/react-native.png" alt="react-native"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/nodejs.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/spring-logo.png"/> <img width="50" height="50" src="https://img.icons8.com/color/48/firebase.png" alt="firebase"/> <img width="50" height="50" src="https://img.icons8.com/color/48/dart.png" alt="dart"/> <img width="50" height="50" src="https://img.icons8.com/fluency/48/flutter.png" alt="flutter"/>
+
+### Tools I Use
+<img width="50" height="50" src="https://img.icons8.com/color/48/android-studio--v3.png" alt="android-studio--v3"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/figma--v1.png"/>
